@@ -1,0 +1,37 @@
+,,,
+Reserved cash amount,500,,
+,,,
+,,,
+,,,
+Category,Desired Allocation,Desired Allocation (Future),Notes
+U.S. Stocks - Large Cap,20.00%,20.00%,10B+ Market cap
+U.S. Stocks - Medium Cap,20.00%,20.00%,2B+ Market cap
+U.S. Stocks - Small Cap,20.00%,20.00%,<2B Market cap
+Foreign Stocks - Developed,10.00%,10.00%,
+Foreign Stocks - Emerging,10.00%,10.00%,
+Real Estate,10.00%,10.00%,
+Natural Resources,5.00%,5.00%,
+Commodities ,5.00%,5.00%,
+U.S. Bonds,0.00%,0.00%,
+U.S. Inflation Protected Bonds,0.00%,0.00%,
+Foreign Bonds,0.00%,0.00%,
+Cash,0.00%,0.00%,
+,,,
+,,,
+Stock ticker,Categories,,
+Cash,Cash,,
+ABBV,U.S. Stocks - Large Cap,,
+BAH,U.S. Stocks - Large Cap,,
+LUV,U.S. Stocks - Large Cap,,
+TCEHY,Foreign Stocks - Developed,,
+MMM,U.S. Stocks - Large Cap,,
+QQQ,U.S. Stocks - Large Cap,,
+GE,U.S. Stocks - Large Cap,,
+SPY,U.S. Stocks - Large Cap,,
+NTDOY,U.S. Stocks - Large Cap,,
+UFO,U.S. Stocks - Small Cap,U.S. Stocks - Medium Cap,U.S. Stocks - Large Cap
+NERD,U.S. Stocks - Small Cap,U.S. Stocks - Medium Cap,U.S. Stocks - Large Cap
+UI,U.S. Stocks - Medium Cap,,
+BAR,Commodities ,,
+DOCU,U.S. Stocks - Large Cap,,
+GRPN,U.S. Stocks - Small Cap,,
